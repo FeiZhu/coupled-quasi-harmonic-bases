@@ -4,6 +4,8 @@
 // @author: Fei Zhu, 01/14/2014
 //######################################################
 
+#ifndef COUPLED_QUASI_HARMONIC_BASES_H_
+#define COUPLED_QUASI_HARMONIC_BASES_H_
 
 #include <vector>
 #include "NLF.h"
@@ -109,24 +111,4 @@ protected:
     static vector<double> static_x;
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#endif
